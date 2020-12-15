@@ -1,5 +1,7 @@
 # file_supercli
 
+[![Demo video](https://img.youtube.com/vi/Tjbjh3dhcqE/0.jpg)](https://www.youtube.com/watch?v=Tjbjh3dhcqE)
+
 [English] : Reset lost super user password using cli script in  Joomla! 3
 
 This Joomla! extension of type "file" allows you to install the script supercli like any other Joomla! extension. It will basically copy the supercli.php file in the cli folder at the root of your Joomla! website.
