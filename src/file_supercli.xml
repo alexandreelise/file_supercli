@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="file" method="upgrade">
+    <name>file_supercli</name>
+    <author>Alexandre ELISÉ</author>
+    <authorEmail>contact@alexandre-elise.fr</authorEmail>
+    <authorUrl>https://coderparlerpartager.fr</authorUrl>
+    <copyright>Copyright (c) 2020 Alexandre ELISÉ. All rights reserved.</copyright>
+    <license>GNU GPL v2 or later</license>
+    <version>1.0.0</version>
+    <creationDate>2020-12-15</creationDate>
+    <description>Reset Super User password via a CLI script</description>
+
+    <fileset>
+        <files target="cli">
+            <file>supercli.php</file>
+        </files>
+    </fileset>
+</extension>
