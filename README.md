@@ -35,3 +35,30 @@ Usage: php dossier_racine_de_joomla/cli/supercli.php
 3. Vous ne pourrez rien faire d'autre avant d'avoir changé votre mot de passe Super Admin. Enregistrez et sauvez puis vous pourrez utilisez votre site comme avant.
 
 ATTENTION!!! CE SCRIPT EST POTENTIELLEMENT RISQUÉ A UTILISER EN PRODUCTION. A VOS RISQUES ET PERILS
+
+
+## COMMUNITY
+> In English:
+
+Get in touch on social media or contact me directly
+* Website: [https://coderparlerpartager.fr/en](https://coderparlerpartager.fr/en)
+* Contact: [Contact me](https://coderparlerpartager.fr/en/say-hello)
+* Newsletter: [Weekly newsletter of technical blog](https://coderparlerpartager.fr/en/get-newsletter)
+
+---
+
+> En français
+
+Contactez-moi directement ou bien sur les réseaux sociaux
+
+* Site web: [https://coderparlerpartager.fr](https://coderparlerpartager.fr)
+* Contact: [Me contacter](https://coderparlerpartager.fr/contact)
+* Newsletter: [Newsletter hebdomadaire blog technique](https://coderparlerpartager.fr/newsletter)
+
+---
+
+* Twitter: [@mralexandrelise](https://twitter.com/mralexandrelise)
+* Facebook: [coderparlerpartager](https://www.facebook.com/coderparlerpartager)
+* Linkedin: [coderparlerpartager](https://www.linkedin.com/company/coderparlerpartager)
+* Youtube: [coderparlerpartager](https://www.youtube.com/channel/UCCya8rIL-PVHm8Mt4QPW-xw?sub_confirmation=1)
+
